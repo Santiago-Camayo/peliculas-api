@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "6ab432653b0acdb8f13baa59"
+  },
+  "titulo": "El Padrino",
+  "director": "Francis Ford Coppola",
+  "anio": 1972,
+  "genero": [
+    "Crimen",
+    "Drama"
+  ],
+  "duracion": 175,
+  "calificacion": 9.2,
+  "sinopsis": "La saga de una familia mafiosa y el traspaso del poder al hijo menor.",
+  "reparto": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan"
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-23T20:11:17.256Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-23T20:11:17.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ab432653b0acdb8f13baa5a"
+  },
+  "titulo": "Interestelar",
+  "director": "Christopher Nolan",
+  "anio": 2014,
+  "genero": [
+    "Ciencia ficción",
+    "Drama"
+  ],
+  "duracion": 169,
+  "calificacion": 8.7,
+  "sinopsis": "Un grupo de astronautas viaja por un agujero de gusano para salvar a la humanidad.",
+  "reparto": [
+    "Matthew McConaughey",
+    "Anne Hathaway",
+    "Jessica Chastain"
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-23T20:11:17.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-23T20:11:17.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ab432653b0acdb8f13baa5b"
+  },
+  "titulo": "Parásitos",
+  "director": "Bong Joon-ho",
+  "anio": 2019,
+  "genero": [
+    "Thriller",
+    "Drama"
+  ],
+  "duracion": 132,
+  "calificacion": 8.5,
+  "sinopsis": "Una familia pobre se infiltra poco a poco en la vida de una familia adinerada.",
+  "reparto": [
+    "Song Kang-ho",
+    "Choi Woo-shik",
+    "Park So-dam"
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-23T20:11:17.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-23T20:11:17.257Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ab432653b0acdb8f13baa5c"
+  },
+  "titulo": "Matrix",
+  "director": "Lana y Lilly Wachowski",
+  "anio": 1999,
+  "genero": [
+    "Ciencia ficción",
+    "Acción"
+  ],
+  "duracion": 136,
+  "calificacion": 8.7,
+  "sinopsis": "Un hacker descubre que la realidad que conoce es una simulación.",
+  "reparto": [
+    "Keanu Reeves",
+    "Laurence Fishburne",
+    "Carrie-Anne Moss"
+  ],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-09-23T20:11:17.257Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-23T20:11:17.257Z"
+  }
+}]
