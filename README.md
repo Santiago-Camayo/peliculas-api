@@ -1,4 +1,4 @@
-# 🎬 API de Películas
+#  API de Películas
 
 API REST con Node.js, Express y MongoDB (Mongoose).
 
